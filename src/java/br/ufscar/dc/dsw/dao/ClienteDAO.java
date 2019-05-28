@@ -1,7 +1,4 @@
-/**
- *
- * @author Flash
- */
+
 import br.ufscar.dc.dsw.pojo.Cliente;
 import java.util.List;
 import javax.persistence.EntityManager;
